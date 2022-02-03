@@ -6,7 +6,8 @@ x-=5
 print(x) 
 
 import pandas
-
+df=pandas.DataFrame()
+print(df)
 
 import sys 
 
